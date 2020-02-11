@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{52A86E0D-B933-42A6-B5B9-E0B01562134B}</ProjectGuid>
+    <ProjectGuid>{E06D2E92-0117-414A-B285-00884FA518E1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ModbusTest</RootNamespace>
     <AssemblyName>ModbusTest</AssemblyName>
